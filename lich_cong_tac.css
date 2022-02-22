@@ -1,0 +1,28 @@
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.header {
+    background-color: #4e9e18;
+    color: white;
+}
+th, td {
+    padding: 4px;
+}
+
+.page {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    width: 800px;
+}
+
+.lich_cong_tac {
+    width: 100%;
+}
